@@ -6,5 +6,6 @@ Projeto para o Desafio 1 do Hiring Coders, com o intúito de desenvolver uma Lan
 - CSS
 - JavaScript
 
+https://estudiovalerio.netlify.app
 
 🚀Fique à vontade para conferir o resultado neste repositório e para entrar em contato.🚀
